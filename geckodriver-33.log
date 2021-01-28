@@ -1,0 +1,18 @@
+1610520879223	geckodriver	INFO	Listening on 127.0.0.1:58835
+1610520882228	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CTEA\\AppData\\Local\\Temp\\rust_mozprofile6Mmrvb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610520886467	Marionette	INFO	Listening on port 58843
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610520886539	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610520886563	Marionette	ERROR	[17] No reply from Marionette:Register
+JavaScript warning: https://demo.openemr.io/b/openemr/interface/main/messages/messages.php?form_active=1, line 744: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1610521310249	Marionette	INFO	Stopped listening on port 58843
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Selenium_project</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.robotframework.ide.eclipse.main.plugin.robotLibrariesBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.robotframework.ide.eclipse.main.plugin.robotNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>libspecs/args_56fb417c.arg</name>
+			<type>1</type>
+			<location>C:/Users/CTEA/AppData/Local/Temp/RobotTempDir11736317845758792037/args_56fb417c.arg</location>
+		</link>
+		<link>
+			<name>libspecs/args_64acab2c.arg</name>
+			<type>1</type>
+			<location>C:/Users/CTEA/AppData/Local/Temp/RobotTempDir9043086358422040556/args_64acab2c.arg</location>
+		</link>
+		<link>
+			<name>libspecs/args_89e51520.arg</name>
+			<type>1</type>
+			<location>C:/Users/CTEA/AppData/Local/Temp/RobotTempDir12956701829049735568/args_89e51520.arg</location>
+		</link>
+		<link>
+			<name>libspecs/args_8efd9549.arg</name>
+			<type>1</type>
+			<location>C:/Users/CTEA/AppData/Local/Temp/RobotTempDir12956701829049735568/args_8efd9549.arg</location>
+		</link>
+	</linkedResources>
+</projectDescription>

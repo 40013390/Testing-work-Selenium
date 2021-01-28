@@ -1,0 +1,12 @@
+1610536506671	geckodriver	INFO	Listening on 127.0.0.1:49460
+1610536509681	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CTEA\\AppData\\Local\\Temp\\rust_mozprofileM0xg8N"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610536513341	Marionette	INFO	Listening on port 49468
+1610536513834	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610536513909	Marionette	ERROR	[17] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\CTEA\AppData\Local\Temp\rust_mozprofileM0xg8N\protections.sqlite
+1610539625107	Marionette	INFO	Stopped listening on port 49468
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

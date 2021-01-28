@@ -1,0 +1,16 @@
+1610542136514	geckodriver	INFO	Listening on 127.0.0.1:55296
+1610542139527	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\CTEA\\AppData\\Local\\Temp\\rust_mozprofileXFcD64"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610542143500	Marionette	INFO	Listening on port 55306
+1610542143690	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610542143751	Marionette	ERROR	[21] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: TypeError: Property 'handleEvent' is not callable.
+JavaScript error: https://tags.tiqcdn.com/utag/lmi/g2mwta/prod/utag.js, line 153: TypeError: gTrk is undefined
+1610542155141	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: TypeError: Property 'handleEvent' is not callable.
+1610542649525	Marionette	INFO	Stopped listening on port 55306
